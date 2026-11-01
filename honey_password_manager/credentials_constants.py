@@ -1,0 +1,2 @@
+HONEY_SITE_NAME = "[SYSTEM] Master Login Honey Record"
+DELETED_PREFIX = "[DELETED] "
